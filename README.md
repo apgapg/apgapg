@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apgapg" alt="apgapg" /></a> </p>
-
 - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist)
 
 - 🌱 I’m currently learning more about **Flutter, NodeJs, VueJs**
