@@ -1,20 +1,14 @@
-<h1 >Hola 👋, I'm Ayush P Gupta</h1>
+<h2 >Hola 👋, I'm Ayush P Gupta</h2>
 <h3 >A Flutter mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
 - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist)
-
 - 🌱 I’m currently learning more about **Flutter, NodeJs, VueJs**
-
 - 👨‍💻 All of my projects are available at [apgapg.github.io](https://apgapg.github.io/)
-
 - 📝 I regulary write articles on [http://medium.com/@ayushpguptaapg](http://medium.com/@ayushpguptaapg)
-
 - 💬 Ask me about **Flutter, VueJs**
-
 - 📫 How to reach me [@Email](ayushpguptaapg@gmail.com), [@LinkedIn](https://www.linkedin.com/in/ayushpgupta/)
-
 - ⚡ Fun fact: **You will always find me working on an awesome app**
 
 <h3 align="left">Connect with me:</h3>
