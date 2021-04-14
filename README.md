@@ -11,6 +11,22 @@
 - 📫 How to reach me [@Email](ayushpguptaapg@gmail.com), [@LinkedIn](https://www.linkedin.com/in/ayushpgupta/)
 - ⚡ Fun fact: **You will always find me working on an awesome app**
 
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Using Streams in Flutter](https://medium.com/@ayushpguptaapg/using-streams-in-flutter-62fed41662e4)
+- [Validating JSON in Flutter](https://medium.com/flutterpub/validating-json-in-flutter-6f07ec9344f8)
+- [ListView, GridView inside ScrollView](https://medium.com/flutterpub/flutter-listview-gridview-inside-scrollview-68b722ae89d4)
+- [Integrate Asana and Github (Part 1)](https://medium.com/dot-labs/integrate-asana-and-github-part-1-51c04b288c04)
+- [Website Scraping with Dart (Flutter)](https://ayushpguptaapg.medium.com/website-scraping-with-dart-flutter-56db60033d49)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://ayushpguptaapg.medium.com/)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayushpgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayushpgupta" height="30" width="40" /></a>
