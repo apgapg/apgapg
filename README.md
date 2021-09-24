@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
-## ✅ Open to REMOTE jobs backend, frontend engineering/team lead.<br />Also open for freelance on hourly basis. (30$ per hour)
+## ✅ Open to REMOTE backend, frontend engineering/team lead projects
 
 - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist)
 - 🌱 I’m currently learning more about **Flutter, NodeJs, VueJs**
