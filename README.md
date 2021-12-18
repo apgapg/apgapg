@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
-## ✅ Open to REMOTE backend, frontend engineering/team lead projects
+![wrapped (2)](https://user-images.githubusercontent.com/13887407/146631836-407dcbfc-1980-47a4-9b7c-efa80d36bd84.png)
+
+## ✅ Open to REMOTE backend, frontend engineering/team lead role
 
 - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist)
 - 🌱 I’m currently learning more about **Flutter, NodeJs, VueJs**
