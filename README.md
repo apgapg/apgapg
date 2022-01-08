@@ -5,9 +5,7 @@
 
 ![wrapped (2)](https://user-images.githubusercontent.com/13887407/146631836-407dcbfc-1980-47a4-9b7c-efa80d36bd84.png)
 
-## ✅ Open to REMOTE backend, frontend engineering/team lead role
-
-- 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist)
+- 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist) as Flutter, NodeJS Lead
 - 🌱 I’m currently learning more about **Flutter, NodeJs, VueJs**
 - 👨‍💻 All of my projects are available at [apgapg.github.io](https://apgapg.github.io/)
 - 📝 I regulary write articles on [Medium](http://medium.com/@ayushpguptaapg)
