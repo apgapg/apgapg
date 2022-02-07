@@ -3,29 +3,73 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
-![wrapped (2)](https://user-images.githubusercontent.com/13887407/146631836-407dcbfc-1980-47a4-9b7c-efa80d36bd84.png)
+<table>
+<tr>
+<td valign="top">
+
+#### Cool Projects
+
+<!-- recent_releases starts -->
+- <a href='https://github.com/TheDotLabs/frame-my-screenshot' target='_blank'>Frame my Screenshot</a>
+- <a href='https://github.com/apgapg/my_hindi_shayari' target='_blank'>Hindi Shayari</a>
+- <a href='https://github.com/apgapg/vuepress-diary' target='_blank'>Personal Diary</a>
+- <a href='https://github.com/TheDotLabs/github-asana-action-website' target='_blank'>Github Asana Action</a>
+
+<!-- recent_releases ends -->
+
+</td>
+<td valign="top">
+
+#### <a href="https://medium.com/@apgapg" target="_blank">📘 Medium Blogs</a>
+
+<!-- blog starts -->
+- <a href='https://apgapg.medium.com/visualize-your-kubernetes-real-time-c07a99666e9f' target='_blank'>Visualize your Kubernetes</a>
+- <a href='https://apgapg.medium.com/integrate-asana-and-github-part-1-51c04b288c04' target='_blank'>Integrate Asana, Github</a>
+- <a href='https://apgapg.medium.com/website-scraping-with-dart-flutter-56db60033d49' target='_blank'>Dart Website Scrapper</a>
+- <a href='https://apgapg.medium.com/flutter-made-physics-easy-e4b17cc0f43b' target='_blank'>Flutter made Physics easy</a>
+- [Using Streams in Flutter](https://medium.com/@ayushpguptaapg/using-streams-in-flutter-62fed41662e4)
+- [Validating JSON in Flutter](https://medium.com/flutterpub/validating-json-in-flutter-6f07ec9344f8)
+- [ListView, GridView inside ScrollView](https://medium.com/flutterpub/flutter-listview-gridview-inside-scrollview-68b722ae89d4)
+  
+▶ [...more blog articles](https://ayushpguptaapg.medium.com/)
+<!-- blog ends -->
+
+</td>
+  
+</tr>
+  
+<tr>
+<td valign="top">
+
+#### <a href="https://www.youtube.com/channel/UCYxCh-to3v3PqEIlm2phgpA" target="_blank">Youtube</a>
+
+- <a href='https://www.youtube.com/watch?v=OS6GyaJhLKU&list=PLZJwE7FZ9-_-Z35pwkZiRsprTwwgB8975' target='_blank'>Explore VueJs</a>
+- <a href='https://www.youtube.com/watch?v=2n3zaIxfnbI&list=PLZJwE7FZ9-__CN1Tg38eh37AQSCThYEqf' target='_blank'>Github Fundamentals</a>
+
+</td> 
+</tr>
+</table>
 
 - 🔭 I’m currently working at [FieldAssist](https://github.com/FieldAssist) as Flutter, NodeJS Lead
-- 🌱 I’m currently learning more about **Flutter, NodeJs, VueJs**
-- 👨‍💻 All of my projects are available at [apgapg.github.io](https://apgapg.github.io/)
+- 👨‍💻 My Portfolio is available at [apgapg.github.io](https://apgapg.github.io/)
 - 📝 I regulary write articles on [Medium](http://medium.com/@ayushpguptaapg)
-- 💬 Ask me about **Flutter, VueJs**
 - 📫 How to reach me [@Email](ayushpguptaapg@gmail.com), [@LinkedIn](https://www.linkedin.com/in/ayushpgupta/)
 - ⚡ Fun fact: **You will always find me working on an awesome app**
 
 ---
 
-📘 Latest Blog Articles
+## Organisations
 
-<!-- BLOG-POST-LIST:START -->
-- [Using Streams in Flutter](https://medium.com/@ayushpguptaapg/using-streams-in-flutter-62fed41662e4)
-- [Validating JSON in Flutter](https://medium.com/flutterpub/validating-json-in-flutter-6f07ec9344f8)
-- [ListView, GridView inside ScrollView](https://medium.com/flutterpub/flutter-listview-gridview-inside-scrollview-68b722ae89d4)
-- [Integrate Asana and Github (Part 1)](https://medium.com/dot-labs/integrate-asana-and-github-part-1-51c04b288c04)
-- [Website Scraping with Dart (Flutter)](https://ayushpguptaapg.medium.com/website-scraping-with-dart-flutter-56db60033d49)
-<!-- BLOG-POST-LIST:END -->
+List of org where I actively contribute
 
-▶ [...more blog articles](https://ayushpguptaapg.medium.com/)
+- [FieldAssist](https://github.com/FieldAssist) - Current Workplace
+- [TheDotLabs](https://github.com/TheDotLabs) - Self created community for awesome projects
+
+---
+
+## My Year in Review
+
+![wrapped (2)](https://user-images.githubusercontent.com/13887407/146631836-407dcbfc-1980-47a4-9b7c-efa80d36bd84.png)
 
 ---
 
