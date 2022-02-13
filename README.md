@@ -1,7 +1,9 @@
 <h2 >Hola 👋, I'm Ayush P Gupta</h2>
 <h3 >A Flutter, NodeJs, VueJs mobile app developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p> 
+
+![Discord](https://img.shields.io/discord/942386749940858880)
 
 Join me on Discord: https://discord.gg/7byeCn7MGF
 
