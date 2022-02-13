@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
+Join me on Discord: https://discord.gg/7byeCn7MGF
+
 <table>
 <tr>
 <td valign="top">
