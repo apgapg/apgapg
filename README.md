@@ -7,6 +7,12 @@
 
 Join me on Discord: https://discord.gg/7byeCn7MGF
 
+------------
+
+## ✅✅ OPEN for remote opportunities full time for Flutter Lead or VueJs, Team Lead positions. Immediately Available.
+
+------------
+
 <table>
 <tr>
 <td valign="top">
