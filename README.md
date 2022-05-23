@@ -10,7 +10,9 @@ Join me on Discord: https://discord.gg/7byeCn7MGF
 ------------
 
 ## ✅✅ OPEN for remote opportunities full time for Flutter Lead or VueJs, Team Lead positions. Immediately Available.
-### [Click to view Resume](https://drive.google.com/file/d/1gUoNBqig6q1wtv8JsxPCpowXhE6XGzwh/view?usp=sharing)
+### Resume: [Click to view Resume](https://drive.google.com/file/d/1gUoNBqig6q1wtv8JsxPCpowXhE6XGzwh/view?usp=sharing)
+### Portfolio: https://www.ayushpgupta.com/
+### Diary: https://diary.ayushpgupta.com/
 
 ------------
 
