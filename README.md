@@ -1,4 +1,5 @@
-<h2 >Hola 👋, I'm Ayush P Gupta</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36B8D4&width=435&lines=Hi%2C+I+am+Ayush+P+Gupta+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+
 <h3 >A Flutter, NodeJs, VueJs mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apgapg&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p> 
